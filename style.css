@@ -1,0 +1,23 @@
+/*heading styles begin here*/
+
+body{
+    background-color: blanchedalmond;
+    color:darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:black;
+    background-color: rgb(255, 186, 133);
+    font-size: 250%;
+}
+
+h3{
+    color:black;
+    background-color: rgb(255, 186, 133);
+    font-size: 150%;
+}
+
+ol{
+    background-color: rgba(195, 191, 191, 0.544);
+}
