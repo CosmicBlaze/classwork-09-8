@@ -10,14 +10,20 @@ h2{
     color:black;
     background-color: rgb(255, 186, 133);
     font-size: 250%;
+    border-color: black;
+    border-style: solid;
 }
 
 h3{
     color:black;
     background-color: rgb(255, 186, 133);
     font-size: 150%;
+    border-color: black;
+    border-style: solid;
 }
 
 ol{
     background-color: rgba(195, 191, 191, 0.544);
+    border-color: black;
+    border-style: solid;
 }
